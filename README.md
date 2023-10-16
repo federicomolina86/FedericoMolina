@@ -1,6 +1,7 @@
-# Hola! Mi nombre es Federico Molina!
+https://raw.githubusercontent.com/federicomolina86/FedericoMolina/master/src/descarga.jpeg
+# Hola! Mi nombre es Federico Molina.
 ## ¿Quién soy?
-Soy un Data Scientist apasionado por los datos, que disfruta tanto del Análisis como de la Ingeniería de Datos.
+Soy un Data Scientist apasionado por los datos, que disfruta tanto del Análisis como de la Ingeniería de Datos. Soy muy curioso y me gusta estar aprendiendo cosas nuevas constantemente.
 
 ## ¿Qué hago?
 Acabo de graduarme del bootcamp en Data Science en Henry, y me encuentro realizando cursos y nuevos proyectos para aprender cada día más.
