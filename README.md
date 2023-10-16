@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/federicomolina86/FedericoMolina/master/src/descarga.jpeg
+![descarga](https://github.com/federicomolina86/FedericoMolina/assets/99371955/915f12db-2e5b-4b3e-9520-038b46bc2104)
 # Hola! Mi nombre es Federico Molina.
 ## ¿Quién soy?
 Soy un Data Scientist apasionado por los datos, que disfruta tanto del Análisis como de la Ingeniería de Datos. Soy muy curioso y me gusta estar aprendiendo cosas nuevas constantemente.
