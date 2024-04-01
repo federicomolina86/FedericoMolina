@@ -13,6 +13,7 @@ Acabo de graduarme del bootcamp en Data Science en Henry, y me encuentro realiza
 - Tableau
 - Machine Learning
 - Big Data
+- Librerías de Python para Data Science
 - Docker
 - MongoDB
 
