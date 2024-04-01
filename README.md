@@ -4,14 +4,17 @@
 Soy un Data Scientist apasionado por los datos, que disfruta tanto del Análisis como de la Ingeniería de Datos. Soy muy curioso y me gusta estar aprendiendo cosas nuevas constantemente.
 
 ## ¿Qué hago?
-Acabo de graduarme del bootcamp en Data Science en Henry, y me encuentro realizando cursos y nuevos proyectos para aprender cada día más.
+Acabo de graduarme del bootcamp en Data Science en Henry, y me encuentro realizando cursos y nuevos proyectos para aprender cada día más. Actualmente me desempeño como Mentor de Admisiones de la carrera de Data Science en Henry.
 
 ## ¿Qué tecnologías y herramientas uso?
 - Python
 - SQL
 - Power BI
+- Tableau
 - Machine Learning
 - Big Data
+- Docker
+- MongoDB
 
 ### Contacto
 - Linkedin: www.linkedin.com/in/matias-federico-molina
